@@ -39,12 +39,17 @@ The goal is to understand sales performance, customer behavior, and revenue tren
 ---
 
 ## 🚀 Skills Demonstrated
-- SQL querying (SELECT, GROUP BY, ORDER BY)
-- Data aggregation
-- Business analysis
+- SQL querying (SELECT, GROUP BY, ORDER BY, LIMIT)
+- Data aggregation & analysis
+- Business insight generation
 - Problem-solving using data
 
 ---
+## 📊 Sample Output
+
+- Total Revenue: 6700  
+- Top Performing City: Ottawa  
+- Top Selling Product: Laptop   
 
 ## 📈 Conclusion
 This project demonstrates how SQL can be used to analyze raw data and generate valuable business insights for decision-making.
